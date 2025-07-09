@@ -1,0 +1,189 @@
+
+.headerBox {
+  background: #ceeddb;
+  border-radius: 10px;
+}
+ 
+
+.overviewText{
+  border: solid 2px #a0aaec;
+  border-radius: 5px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #232527;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 800px;
+  text-align: center;
+  background-color: rgb(251, 253, 249);
+  box-shadow: #ccc 0px 0px 20px;
+}
+span{
+  color: #384491;
+  font-weight: 600;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  text-decoration-color: #a0aaec;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.5; 
+}
+.lang{
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #1a1263;
+  margin: 0 auto;
+  text-align: center;
+}
+.heading{
+  text-align: center;
+  border:3px solid #ceeddb ;
+  color:cadetblue;
+  border-radius: 50%;
+  background-color: aliceblue;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px ;
+   
+}
+.card {
+  flex: 0 0 auto;          
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  overflow: hidden;
+  max-height: 1200px  ;
+  margin-left: 20px;
+  background-color: #daf3e5;
+}
+
+.cardImage{
+  padding: 10px;
+  width: 100%;
+  height: 300px;
+  border-radius: 5%;
+  border: 1px solid #f7c8c8;
+  
+} 
+.card-body {
+  padding: 10px;
+}
+.card-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2c2a2a;
+  margin-bottom: 10px;
+  background-color: #f4dede;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card-text1{
+  text-align: center;
+  font-size: 1rem;
+  color: #544f4f;
+  margin-bottom: 10px;
+  font-family: "Outfit", sans-serif;
+  border-radius: 5px;
+  border: #ceeddb;
+background-color: bisque;
+}
+.card-text {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #171616;
+  margin-bottom: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  border-radius: 5px;
+  border: #ceeddb;
+  background-color: #d4c890;
+}
+.mt-auto{
+  margin-top: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #171616;
+  font-family: "Outfit", sans-serif;
+  border-radius: 5px;
+  background-color: #74d6d673;
+}
+.searchBar{
+  border: 1px solid #ccc;
+  box-shadow: #a0aaec 0px 0px 5px;
+  border-radius: 10px;
+}
+.aboutHeading{
+  border:  solid #ccc;
+  box-shadow: #a0aaec 0px 0px 5px;
+  border-radius: 5px;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color:  #9e6c6c;
+}
+.ProjectOverview{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #1a1263;
+  margin: 0 auto;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: justify;
+  box-shadow: #938787 0px 0px 10px;
+   
+}
+.developerSection{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #1a1263;
+  margin: 0 auto;
+  padding: 5px;
+  border: 1px solid #796b6b;
+  border-radius: 5px;
+  text-align: justify;
+  box-shadow: #ccc 0px 0px 10px;
+}
+.list-group-item{
+  text-align: center;
+  box-shadow: #a0aaec 0px 0px 5px;
+}
+.otwHeading{  
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #1a1263;
+  text-decoration-color: #a0aaec;
+  text-underline-offset: 4px;
+  margin-top: 20px;
+  border: #f4dede solid 2px;
+  border-radius: 5px;
+  box-shadow: #a0aaec 0px 0px 10px  ;
+  text-align: justify;
+}
+.logo {
+  width: 100px;
+  height: 100px;                  
+  display: block;
+  border: #a0aaec solid 2px;
+  border-radius: 50%;
+}
+
