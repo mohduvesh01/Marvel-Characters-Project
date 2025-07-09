@@ -1,12 +1,39 @@
-# React + Vite
+# 🔥 Marvel Characters Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and dynamic web application built with **React.js** that displays detailed information about popular Marvel movie characters. Includes search functionality, routing, and a clean card layout using **React-Bootstrap** and **custom CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🧑‍🎤 Displays character cards with actor name, bio, and movie appearances
+- 🔍 Search bar to filter characters by name
+- 🧭 React Router-based navigation (Home, About, OpenToWork)
+- 🎨 Responsive design using Bootstrap
+- 💡 Uses local JSON data structure for easy updates
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- React Router DOM
+- Bootstrap 5 / React-Bootstrap
+- CSS3
+- JSON (local data)
+
+---
+
+## 📷 Screenshot
+
+![Marvel App Screenshot](./screenshot.png) <!-- Replace with your own screenshot -->
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/marvel-characters-app.git
+cd marvel-characters-app
+npm install
+npm start
