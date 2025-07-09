@@ -24,11 +24,6 @@ A responsive and dynamic web application built with **React.js** that displays d
 
 ---
 
-## 📷 Screenshot
-
-![Marvel App Screenshot](./screenshot.png) <!-- Replace with your own screenshot -->
-
----
 
 ## 🚀 Getting Started
 
