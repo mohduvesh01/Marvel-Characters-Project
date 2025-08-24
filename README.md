@@ -3,7 +3,7 @@
 A responsive and dynamic web application built with **React.js** that displays detailed information about popular Marvel movie characters. Includes search functionality, routing, and a clean card layout using **React-Bootstrap** and **custom CSS**.
 
 ---
-
+## LIVE : [CLICK HERE] https://app-marvel-characters.netlify.app/
 ## 📌 Features
 
 - 🧑‍🎤 Displays character cards with actor name, bio, and movie appearances
